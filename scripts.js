@@ -1,31 +1,31 @@
 document.getElementById("ticTacToe").addEventListener("click", function() {
-    alert("You clicked on Tic Tac Toe!");
+    window.location.href = "tic_tac_toe.html";
 });
 
 document.getElementById("snakeGame").addEventListener("click", function() {
-    alert("You clicked on Snake Game!");
+    window.location.href = "snake_game.html";
 });
 
 document.getElementById("sudoku").addEventListener("click", function() {
-    alert("You clicked on Sudoku!");
+    window.location.href = "sudoku.html";
 });
 
 document.getElementById("memoryGame").addEventListener("click", function() {
-    alert("You clicked on Memory Game!");
+    window.location.href = "memory_game.html";
 });
 
 document.getElementById("hangman").addEventListener("click", function() {
-    alert("You clicked on Hangman!");
+    window.location.href = "hangman.html";
 });
 
 document.getElementById("chess").addEventListener("click", function() {
-    alert("You clicked on Chess!");
+    window.location.href = "https://www.chess.com/home";
 });
 
 document.getElementById("crosswordPuzzle").addEventListener("click", function() {
-    alert("You clicked on Crossword Puzzle!");
+    window.location.href = "crossword_puzzle.html";
 });
 
 document.getElementById("minesweeper").addEventListener("click", function() {
-    alert("You clicked on Minesweeper!");
+    window.location.href = "minesweeper.html";
 });
