@@ -1,5 +1,5 @@
 document.getElementById("ticTacToe").addEventListener("click", function() {
-    window.location.href = "tic_tac_toe.html";
+    window.location.href = "https://playtictactoe.org";
 });
 
 document.getElementById("snakeGame").addEventListener("click", function() {
