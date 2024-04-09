@@ -27,5 +27,5 @@ document.getElementById("crosswordPuzzle").addEventListener("click", function() 
 });
 
 document.getElementById("minesweeper").addEventListener("click", function() {
-    window.location.href = "https://minesweeper.one/";
+    window.location.href = "https://minesweeper.website/";
 });
